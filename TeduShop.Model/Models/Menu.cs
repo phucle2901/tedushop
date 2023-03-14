@@ -31,6 +31,7 @@ namespace TeduShop.Model.Models
         public string Target { set; get; }
 
         public bool Status { set; get; }
+        
     }
 
 }
